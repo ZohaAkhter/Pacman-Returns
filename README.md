@@ -1,2 +1,2 @@
-# Platformer-2000
+# Pacman-Returns
 NEA project
